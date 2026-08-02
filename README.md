@@ -6,8 +6,8 @@ interfaces around them.
 Co-creator of [Amber](https://amber-runtime.github.io/case/), an
 open-source runtime for long-running AI agents on AWS.
 
-01 — [crumb.top](https://crumb.top) · writing & projects
-02 — [jdrols.github.io](https://jdrols.github.io) · the short version of this
+01 — [crumb.top](https://crumb.top) · writing & projects  
+02 — [jdrols.github.io](https://jdrols.github.io) · the short version of this  
 03 — [jdrols@gmail.com](mailto:jdrols@gmail.com) · direct line
 
 Charleston, SC — open to remote work
