@@ -1,13 +1,23 @@
-# Joseph Drolshagen
+# Hi, I'm Joe.
 
-Builds systems that keep running - AI agents, durable execution, and the
-interfaces around them.
+I'm a software engineer in Charleston. Right now I'm co-creating
+[Amber](https://amber-runtime.github.io), an open-source runtime for
+long-running AI agents on AWS.
 
-Co-creator of [Amber](https://amber-runtime.github.io/case/), an
-open-source runtime for long-running AI agents on AWS.
+## Amber
 
-01 - [crumb.top](https://crumb.top)  writing and projects  
-02 - [jdrols.github.io](https://jdrols.github.io)  the short version of this  
-03 - [jdrols@gmail.com](mailto:jdrols@gmail.com)  direct line
+Amber is a self-hosted durable execution runtime. A Python SDK checkpoints
+each step of an agent workflow, so a failed run resumes from the last
+completed step instead of starting over.
 
-Charleston, SC - open to remote work
+- Postgres-backed, queue-first orchestration with dedicated workers
+- React dashboard for inspecting step history and forking failed runs
+- Terraform-managed AWS infrastructure: ECS Fargate, RDS, CloudFront, Cognito
+- [The full technical case study](https://amber-runtime.github.io/case/)
+
+## Links
+
+01  [jdrols.github.io](https://jdrols.github.io)  site and resume
+02  [jdrols@gmail.com](mailto:jdrols@gmail.com)  direct line
+
+Open to software engineering roles, remote or in Charleston.
