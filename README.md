@@ -18,6 +18,7 @@ completed step instead of starting over.
 ## Links
 
 - [jdrols.github.io](https://jdrols.github.io)  site and resume
+- [linkedin.com/in/jdrols](https://www.linkedin.com/in/jdrols)
 - [jdrols@gmail.com](mailto:jdrols@gmail.com)  direct line
 
 Open to software engineering roles, remote or in Charleston.
