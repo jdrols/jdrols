@@ -1,4 +1,4 @@
-# Hi, I'm Joe.
+# Hi, I'm Joe 👋
 
 I'm a software engineer in Charleston. Right now I'm co-creating
 [Amber](https://amber-runtime.github.io), an open-source runtime for
